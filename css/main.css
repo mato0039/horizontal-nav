@@ -1,7 +1,6 @@
 html {
   box-sizing: border-box;
   background-color: #dbd6cf;
-  font-family: Bevan, sans-serif;
   line-height: 1.5;
 }
 
@@ -26,7 +25,7 @@ h1 {
   color: #fff;
   text-align: center;
   margin: 0;
-  font-family: sans-serif;
+  font-family: Bevan, sans-serif;
 }
 
 .nav {
